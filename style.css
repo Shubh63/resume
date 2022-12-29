@@ -68,6 +68,10 @@ td a:visited{
     color: #000000;
 }
 
+.text a:visited{
+    color: #000000;
+}
+
 .container-profile{
     margin-top: 10px;
     margin-left: 20px;
